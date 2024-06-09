@@ -16,9 +16,10 @@ public class AuthCredentials {
     private Long id;
     private String service;
     private String url;
+    private String db;
     private String username;
     private String password;
-
-    // Getters and Setters
+    private String clientId;
+    private String clientSecret;
 }
 
