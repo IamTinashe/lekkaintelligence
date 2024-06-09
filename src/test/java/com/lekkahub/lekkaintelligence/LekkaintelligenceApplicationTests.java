@@ -9,5 +9,4 @@ class LekkaintelligenceApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
