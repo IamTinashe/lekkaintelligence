@@ -13717,3 +13717,6 @@ Unconditional classes:
 2024-06-09 12:32:02 - Started LekkaintelligenceApplication in 1.658 seconds (process running for 1.806)
 2024-06-09 12:32:02 - Application availability state LivenessState changed to CORRECT
 2024-06-09 12:32:02 - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-09 12:40:00 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58s438ms).
+2024-06-09 13:47:46 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h7m16s803ms).
+2024-06-09 14:19:16 - HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s832ms), soft-evicting connections from pool.
